@@ -1,6 +1,7 @@
 *
 !*/
-*/data/
+*/build/
+!*.pdf
 !*.c
 !*.h
 !*.txt
