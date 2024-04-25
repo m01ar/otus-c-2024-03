@@ -1,0 +1,11 @@
+*
+!*/
+*/build/
+!*.c
+!*.h
+!*.txt
+!Makefile
+!README
+!NOTES
+!.gitignore
+
